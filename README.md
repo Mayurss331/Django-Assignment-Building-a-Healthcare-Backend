@@ -147,9 +147,7 @@ curl -X POST http://localhost:8000/api/patients/ \
 ---
 
 ## 🧑‍💻 Author
-Made with ❤️ by [Your Name]
+Made with ❤️ by Mayur Sonar
 
 ---
 
-## 📄 License
-MIT License
